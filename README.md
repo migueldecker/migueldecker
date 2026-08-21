@@ -2,17 +2,17 @@
 
 
 
-<h1 align="center">Hi, I'm Miguel 👋</h1>
+<h1 align="center">Hi, I'm Miguel </h1>
 
 <h3 align="center">Programming student</h3>
 
 ---
 
-### 🧭 About me
+###  About me
 
-- 🎓 I'm a student still **exploring different programming languages**
-- 🧪 Naturally curious: I like testing new frameworks, tools, and ideas just to see what happens
-- 🐣 Early in the journey, but leveling up fast
+-  I'm a student still **exploring different programming languages**
+-  Naturally curious: I like testing new frameworks, tools, and ideas just to see what happens
+-  Early in the journey, but leveling up fast
 
 ---
 
