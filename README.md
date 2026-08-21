@@ -32,7 +32,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueldecker&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideLabels=000000&sideNums=000000&dates=000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueldecker&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueldecker&hide_border=true&bg_color=FFFFFF&color=000000&line=000000&point=000000&area_color=000000&title_color=000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueldecker&hide_border=true&bg_color=0000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF" />
 </p>
 
 ---
