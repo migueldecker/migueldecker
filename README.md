@@ -29,7 +29,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueldecker&hide_border=true&bg_color=1f2121&color=dbd4c2&line=dbd4c2&point=dbd4c2&area_color=dbd4c2&title_color=dbd4c2" />
 </p>
-
----
-
-
