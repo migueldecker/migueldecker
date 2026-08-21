@@ -20,7 +20,6 @@
 
 ---
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=migueldecker&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=FFFFFF" /> </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,js,java,cpp,html,css,git,github" /> </p>
 
 ---
 
@@ -31,13 +30,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=migueldecker&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=FFFFFF&border_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldecker&layout=compact&hide_border=true&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=000000" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=migueldecker&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideLabels=000000&sideNums=000000&dates=000000" />
